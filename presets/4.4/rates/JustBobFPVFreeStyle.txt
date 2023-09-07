@@ -4,7 +4,7 @@
 #$ CATEGORY: RATES
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: rates, freestyle, JustBob, MrBob
-#$ AUTHOR: JustBobFPV (Ryan Harrell)
+#$ AUTHOR: JustBobFPV
 
 #$ PARSER: MARKED
 
