@@ -11,7 +11,7 @@
 #$ DESCRIPTION: JustBobFPV Freestyle Rates
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
-#$ DESCRIPTION: <a href="https://www.youtube.com/c/JustBobFPVFlies" target="_blank"><img src="https://www.miniquadtestbench.com/assets/images/me-small-dji.png" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
+#$ DESCRIPTION:
 #$ DESCRIPTION: These are my rates. I am a hybrid pincher. Blah blah blah.
 #$ DESCRIPTION: <br /><br />
 #$ DESCRIPTION:

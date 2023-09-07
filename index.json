@@ -171,7 +171,7 @@
       "Jakub Espandr (FlyCamCzech)",
       "jappyjan",
       "Joshua Bardwell",
-      "JustBobFPV (Ryan Harrell)",
+      "JustBobFPV",
       "Justice - Gary Kent",
       "Jye Smith",
       "KMfpv",
@@ -3805,7 +3805,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/JustBobFPVFreeStyle.txt",
-      "hash": "5c4781e732802196ee88061c7dd3bf7d6755d3c454969bed1ba56e3de7fefd36",
+      "hash": "facc9af9b168f4d0d9a259d6fb4f09b10c417d31a5a825bb435f617c49fa6ff3",
       "title": "JustBobFPV Rates - Freestyle",
       "firmware_version": [
         "4.3",
@@ -3819,7 +3819,7 @@
         "JustBob",
         "MrBob"
       ],
-      "author": "JustBobFPV (Ryan Harrell)",
+      "author": "JustBobFPV",
       "priority": 10000
     },
     {
