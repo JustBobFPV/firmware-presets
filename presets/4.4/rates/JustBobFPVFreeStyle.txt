@@ -1,0 +1,49 @@
+#$ TITLE: JustBobFPV Rates - Freestyle
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: RATES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: rates, freestyle, JustBob, MrBob
+#$ AUTHOR: JustBobFPV (Ryan Harrell)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: JustBobFPV Freestyle Rates
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: <a href="https://www.youtube.com/c/JustBobFPVFlies" target="_blank"><img src="https://www.miniquadtestbench.com/assets/images/me-small-dji.png" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
+#$ DESCRIPTION: These are my rates. I am a hybrid pincher. Blah blah blah.
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 
+#$ DESCRIPTION: These rates are based on the Actual rate system and are pretty aggressive, with center stick at 150 deg/s and full deflection rates at 800 deg/s. Expo is at a good rate for good resolution. Blah blah blah.
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION: - Rates Type: **Actual**
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION: <table class="ratestable">
+#$ DESCRIPTION: <tr><th width="45" > Axis </th><th width="55" > Center </th><th width="75" > Max Rate </th><th width="45" > Expo </th></tr>
+#$ DESCRIPTION: <tr><td> ROLL </td><td> 150 </td><td> 800 </td><td> 0.74 </td></tr>
+#$ DESCRIPTION: <tr><td> PITCH </td><td> 150 </td><td> 800 </td><td> 0.74 </td></tr>
+#$ DESCRIPTION: <tr><td> YAW </td><td> 200 </td><td> 800 </td><td> 0.00 </td></tr>
+#$ DESCRIPTION: </table>
+#$ DESCRIPTION:
+#$ WARNING: Rates will overwrite the currently selected rate profile 
+#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/384
+
+#$ INCLUDE: presets/4.3/rates/defaults.txt
+
+# -- End Defaults --
+# -- Begin JustBobFPV Rates --
+
+set rates_type = ACTUAL
+set roll_rc_rate = 15
+set pitch_rc_rate = 15
+set yaw_rc_rate = 20
+set roll_expo = 74
+set pitch_expo = 74
+set yaw_expo = 00
+set roll_srate = 80
+set pitch_srate = 80
+set yaw_srate = 80
